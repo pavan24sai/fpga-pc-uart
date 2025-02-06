@@ -31,7 +31,7 @@ The following figures illustrate the expected pulse behavior and histogram, as w
 ### Simulation and Validation
 The testbench file ([hist_system_tb.v](./tb/hist_system_tb.v)) includes a mechanism for logging the actual pulses and expected pulse width data during ModelSim simulation. This logged data serves as the golden reference for verifying FPGA-acquired data.
 
-The UART log while running the python application ([uart_pc_script.py](./pc_uart_scripts/uart_pc_script.v)) on the PC is as follows:
+The UART log while running the python application ([uart_pc_script.py](./pc_uart_scripts/uart_pc_script.py)) on the PC is as follows:
 ```
 Available serial ports:
 0: COM8
