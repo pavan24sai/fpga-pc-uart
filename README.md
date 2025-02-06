@@ -73,5 +73,5 @@ Time taken to receive responses from requested bins: 0.090 seconds
 The overall time taken to transfer a total of 1K bytes of valid data is 0.9 seconds.
 
 ## References
-[^1] [How a Linear Feedback Shift Register works inside of an FPGA](https://nandland.com/lfsr-linear-feedback-shift-register/)
-[^2] [UART, Serial Port, RS-232 Interface](https://nandland.com/uart-serial-port-module/)
+[1] [How a Linear Feedback Shift Register works inside of an FPGA](https://nandland.com/lfsr-linear-feedback-shift-register/)\
+[2] [UART, Serial Port, RS-232 Interface](https://nandland.com/uart-serial-port-module/)
